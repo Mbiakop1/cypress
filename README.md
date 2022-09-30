@@ -18,7 +18,7 @@
 </h3>
 
 <p align="center">
-  Fast, easy and reliable testing for anything that runs in a browser.
+  Fast, easy, and reliable testing for anything that runs in a browser.
 </p>
 <p align="center">
   Join us, we're <a href="https://cypress.io/jobs">hiring</a>.
@@ -69,7 +69,7 @@ Please see our [Contributing Guideline](./CONTRIBUTING.md) which explains repo o
 
 ## How we work
 
-At Cypress we value our community and strive to be as open and transparent with them as possible.  Check out [our guide](./cypress-prioritization-and-triage.md) on how we prioritize community issues.
+At Cypress, we value our community and strive to be as open and transparent with them as possible.  Check out [our guide](./cypress-prioritization-and-triage.md) on how we prioritize community issues.
 
 ## License
 
